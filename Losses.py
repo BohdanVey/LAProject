@@ -18,9 +18,7 @@ def dice_loss(a, b):
     return 1 - numerator / denominator
 
 
-def hausdorff_loss(a, b, max_ahd=10 ** 9):
-    if len(a) == 0 or len(b) == 0:
-        return max_ahd
+def hausdorff_loss(a, b):
     d2_matrix = pairwise_distances(a, b, metric='euclidean')
 
     res = np.average(np.min(d2_matrix, axis=0)) + \
