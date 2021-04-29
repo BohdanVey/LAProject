@@ -21,8 +21,7 @@ def dice_loss(a, b):
 def hausdorff_loss(a, b):
     d2_matrix = pairwise_distances(a, b, metric='euclidean')
 
-    res = np.average(np.min(d2_matrix, axis=0)) + \
-          np.average(np.min(d2_matrix, axis=1))
+    res = np.average(np.min(d2_matrix, axis=0)) + np.average(np.min(d2_matrix, axis=1))
 
     return res
 
