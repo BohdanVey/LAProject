@@ -19,15 +19,16 @@ def dice_loss(a, b):
 
 
 def hausdorff_loss(a, b):
+    a = a.reshape((a.shape[0] * a.shape[1], a.shape[2]))
+    b = b.reshape((b.shape[0] * b.shape[1], b.shape[2]))
     d2_matrix = pairwise_distances(a, b, metric='euclidean')
 
     res = np.average(np.min(d2_matrix, axis=0)) + np.average(np.min(d2_matrix, axis=1))
-
     return res
 
 
-a = np.random.randint(-100, 100, (800, 800))
-b = np.random.randint(-100, 100, (800, 800))
+a = np.random.randint(-5, 5, (100, 100, 3))
+b = np.random.randint(-5, 5, (100, 100, 3))
 print("Square Loss of different matrix: ", square_loss(a, b))
 print("Square Loss of same matrix: ", square_loss(a, a))
 print("Square loss torch: ", nn.MSELoss()(torch.tensor(a, dtype=torch.double), torch.tensor(b, dtype=torch.double)))
@@ -39,3 +40,4 @@ print("Hausdorff Loss of different matrix: ", hausdorff_loss(a, b))
 print("Hausdorff Loss of same matrix: ", hausdorff_loss(a, a))
 print("Hausdorff loss from internet",
       AveragedHausdorffLoss().forward(torch.tensor(a, dtype=torch.double), torch.tensor(b, dtype=torch.double)))
+
