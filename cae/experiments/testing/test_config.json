@@ -1,0 +1,9 @@
+{
+    "checkpoint": "../checkpoint/model_yt_small_final.state",
+    "exp_name": "testing",
+    "batch_every": 1,
+    "shuffle": false,
+    "dataset_path": "../../yt_small_720p",
+    "num_workers": 1,
+    "device": "cuda"
+}
