@@ -15,7 +15,7 @@ def random_unit_vector(n):
     return [x / the_norm for x in denormalized]
 
 
-def power_step(A, A_curr, svd_rez, error=1e-10):
+def power_step(A, A_curr, svd_rez, error=1e-7):
     """
     Approximates greatest singular value of matrix A_curr and left/right singular vectors which correspond to it
     :param A: initial matrix
@@ -25,13 +25,15 @@ def power_step(A, A_curr, svd_rez, error=1e-10):
     """
     n, m = A_curr.shape
     k = min(n, m)
-    v = random_unit_vector(k)
+    # v = random_unit_vector(k)л
+    v = np.ones(k) / sqrt(k)
     if n > m:
         A_curr = A_curr.T @ A_curr
     elif n < m:
         A_curr = A_curr @ A_curr.T
 
     while True:
+        print()
         Av = A_curr @ v
         v_new = Av / np.linalg.norm(Av)
         if np.abs(np.dot(v, v_new)) > 1 - error:
@@ -68,6 +70,7 @@ def svd(A, _rank):
 
     A_reserve = A.copy()
     for i in range(_rank):
+        print(f"step - {i}")
         power_step(A, A_reserve, svd_rez)
         A_reserve -= svd_rez["s"][-1] * np.outer(svd_rez["u"][-1], svd_rez["v"][-1])
 
