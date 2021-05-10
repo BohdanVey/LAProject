@@ -1,0 +1,4 @@
+SVD square loss: 6.121046109977624
+SVD dice loss: 0.010284358821637534
+Neural network square loss: 53.46351305700231
+Neural network dice loss: 0.0591516560998345

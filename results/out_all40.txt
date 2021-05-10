@@ -1,0 +1,1000 @@
+frame_1460.bmp
+SVD square loss: 105.47045512470282
+SVD dice loss: 0.00811758044405042
+SVD time(sec): 4.157038450241089
+random SVD square loss: 269.9969838140299
+random SVD dice loss: 0.020997364344943703
+random SVD time(sec): 0.43559861183166504
+Neural network square loss: 52.49890444155093
+Neural network dice loss: 0.07596865302901845
+Neural time(sec): 0.7959723472595215
+frame_1857.bmp
+SVD square loss: 160.17610928016504
+SVD dice loss: 0.004829393004263327
+SVD time(sec): 3.8687806129455566
+random SVD square loss: 480.59618092397915
+random SVD dice loss: 0.014607759703755052
+random SVD time(sec): 0.3903977870941162
+Neural network square loss: 82.38802300347223
+Neural network dice loss: 0.07556352180759152
+Neural time(sec): 0.8209099769592285
+frame_1552.bmp
+SVD square loss: 143.18149082673048
+SVD dice loss: 0.003721968445847712
+SVD time(sec): 2.978907823562622
+random SVD square loss: 357.854279432541
+random SVD dice loss: 0.009346367089919538
+random SVD time(sec): 0.5126569271087646
+Neural network square loss: 58.62890082465278
+Neural network dice loss: 0.03363064695256479
+Neural time(sec): 0.7137653827667236
+frame_1861.bmp
+SVD square loss: 312.1638550238154
+SVD dice loss: 0.0076555783237994834
+SVD time(sec): 3.6063783168792725
+random SVD square loss: 586.1894836559744
+random SVD dice loss: 0.014471150721787174
+random SVD time(sec): 0.4733130931854248
+Neural network square loss: 77.75999602141204
+Neural network dice loss: 0.02719555238745286
+Neural time(sec): 0.7259297370910645
+frame_890.bmp
+SVD square loss: 78.81476673249553
+SVD dice loss: 0.0028744547002095278
+SVD time(sec): 2.9825291633605957
+random SVD square loss: 185.55816874277969
+random SVD dice loss: 0.006774428300656443
+random SVD time(sec): 0.4391050338745117
+Neural network square loss: 64.2547486255787
+Neural network dice loss: 0.02560298895541735
+Neural time(sec): 0.7507567405700684
+frame_1803.bmp
+SVD square loss: 144.736313596565
+SVD dice loss: 0.00687258241646993
+SVD time(sec): 3.058779716491699
+random SVD square loss: 353.193425644402
+random SVD dice loss: 0.016915728380626827
+random SVD time(sec): 0.44857048988342285
+Neural network square loss: 80.07935004340278
+Neural network dice loss: 0.056663500486201834
+Neural time(sec): 0.7115073204040527
+frame_1326.bmp
+SVD square loss: 33.27603055891866
+SVD dice loss: 0.0010535136685885238
+SVD time(sec): 2.983116865158081
+random SVD square loss: 99.50098719589327
+random SVD dice loss: 0.0031366303312826416
+random SVD time(sec): 0.3968033790588379
+Neural network square loss: 59.90231264467592
+Neural network dice loss: 0.02288159312254434
+Neural time(sec): 0.7313055992126465
+frame_1015.bmp
+SVD square loss: 342.95107153594114
+SVD dice loss: 0.007243227702787847
+SVD time(sec): 3.899404525756836
+random SVD square loss: 855.2733523743518
+random SVD dice loss: 0.018245750011254502
+random SVD time(sec): 0.4313669204711914
+Neural network square loss: 56.83184497974537
+Neural network dice loss: 0.05662187797469942
+Neural time(sec): 0.7298445701599121
+frame_1009.bmp
+SVD square loss: 273.81271926171706
+SVD dice loss: 0.003513552101053974
+SVD time(sec): 2.9834556579589844
+random SVD square loss: 591.9430478223408
+random SVD dice loss: 0.007624328040701789
+random SVD time(sec): 0.41972875595092773
+Neural network square loss: 62.785289713541665
+Neural network dice loss: 0.035099192111315625
+Neural time(sec): 0.7178890705108643
+frame_171.bmp
+SVD square loss: 90.80048346346832
+SVD dice loss: 0.008049673180925199
+SVD time(sec): 3.612205982208252
+random SVD square loss: 192.0300056430536
+random SVD dice loss: 0.01714580026556134
+random SVD time(sec): 0.4474351406097412
+Neural network square loss: 67.67627567997685
+Neural network dice loss: 0.08784102229144508
+Neural time(sec): 0.7501819133758545
+frame_1195.bmp
+SVD square loss: 127.22247663015163
+SVD dice loss: 0.005796760196343009
+SVD time(sec): 4.25747013092041
+random SVD square loss: 302.30334831687406
+random SVD dice loss: 0.013868017577137404
+random SVD time(sec): 0.6280593872070312
+Neural network square loss: 75.11993019386574
+Neural network dice loss: 0.05056920334749959
+Neural time(sec): 0.7371196746826172
+frame_2115.bmp
+SVD square loss: 152.56311867213194
+SVD dice loss: 0.005028735731411493
+SVD time(sec): 3.173567295074463
+random SVD square loss: 357.74276930334804
+random SVD dice loss: 0.011854581776185591
+random SVD time(sec): 0.4387233257293701
+Neural network square loss: 61.121894169560186
+Neural network dice loss: 0.036508934124244496
+Neural time(sec): 0.7413961887359619
+frame_2026.bmp
+SVD square loss: 13.970264632487504
+SVD dice loss: 0.00020104979188340089
+SVD time(sec): 2.7304344177246094
+random SVD square loss: 51.18729929001521
+random SVD dice loss: 0.0007247305712190233
+random SVD time(sec): 0.33509302139282227
+Neural network square loss: 45.69859953703703
+Neural network dice loss: 0.008232999237905103
+Neural time(sec): 0.7488698959350586
+frame_8.bmp
+SVD square loss: 47.2106830774778
+SVD dice loss: 0.003036817918919632
+SVD time(sec): 3.350884437561035
+random SVD square loss: 133.49213443223633
+random SVD dice loss: 0.008574710701698018
+random SVD time(sec): 0.4569082260131836
+Neural network square loss: 49.46157552083334
+Neural network dice loss: 0.04747309910144526
+Neural time(sec): 0.7210519313812256
+frame_1906.bmp
+SVD square loss: 2.292337054571344
+SVD dice loss: 2.2702746793168416e-05
+SVD time(sec): 2.5639538764953613
+random SVD square loss: 7.473142783025909
+random SVD dice loss: 6.663853978383649e-05
+random SVD time(sec): 0.32851266860961914
+Neural network square loss: 19.431296657986113
+Neural network dice loss: 0.0011714685348590548
+Neural time(sec): 0.7211706638336182
+frame_1158.bmp
+SVD square loss: 219.36726889775773
+SVD dice loss: 0.0131768420303503
+SVD time(sec): 2.772606134414673
+random SVD square loss: 409.1156962187961
+random SVD dice loss: 0.024837149244038126
+random SVD time(sec): 0.5601527690887451
+Neural network square loss: 71.20166558159723
+Neural network dice loss: 0.05459610373809076
+Neural time(sec): 0.7114534378051758
+frame_797.bmp
+SVD square loss: 46.75260414681222
+SVD dice loss: 0.0037218715295820326
+SVD time(sec): 2.6893839836120605
+random SVD square loss: 121.82390739506121
+random SVD dice loss: 0.009727747726151703
+random SVD time(sec): 0.41858983039855957
+Neural network square loss: 41.31093171296296
+Neural network dice loss: 0.06564944126414629
+Neural time(sec): 0.7510347366333008
+frame_7.bmp
+SVD square loss: 31.381348314788614
+SVD dice loss: 0.0022699093535809567
+SVD time(sec): 2.64372181892395
+random SVD square loss: 90.97612792166261
+random SVD dice loss: 0.006548860704914339
+random SVD time(sec): 0.3804919719696045
+Neural network square loss: 44.061652199074075
+Neural network dice loss: 0.03577932449623222
+Neural time(sec): 0.7193856239318848
+frame_2120.bmp
+SVD square loss: 85.2263148855237
+SVD dice loss: 0.003513291402240659
+SVD time(sec): 2.718444347381592
+random SVD square loss: 201.2756952098157
+random SVD dice loss: 0.008318979548047611
+random SVD time(sec): 0.43396472930908203
+Neural network square loss: 56.405231119791665
+Neural network dice loss: 0.024861532561096134
+Neural time(sec): 0.7153892517089844
+frame_804.bmp
+SVD square loss: 148.74619225590138
+SVD dice loss: 0.00588194350287663
+SVD time(sec): 2.915682315826416
+random SVD square loss: 343.0767554225633
+random SVD dice loss: 0.013657087184867689
+random SVD time(sec): 0.44158267974853516
+Neural network square loss: 70.54838758680556
+Neural network dice loss: 0.04022498203846814
+Neural time(sec): 0.7482244968414307
+frame_1152.bmp
+SVD square loss: 15.96185136028763
+SVD dice loss: 0.000684138248230548
+SVD time(sec): 2.5422182083129883
+random SVD square loss: 50.16553382913099
+random SVD dice loss: 0.002123750885438924
+random SVD time(sec): 0.32767343521118164
+Neural network square loss: 46.15599356192129
+Neural network dice loss: 0.01330417520429461
+Neural time(sec): 0.7148327827453613
+frame_2005.bmp
+SVD square loss: 81.33181352447967
+SVD dice loss: 0.006232227525662215
+SVD time(sec): 2.8805034160614014
+random SVD square loss: 189.34496755716086
+random SVD dice loss: 0.014581836984428498
+random SVD time(sec): 0.38872623443603516
+Neural network square loss: 51.12931893807871
+Neural network dice loss: 0.04862606358477117
+Neural time(sec): 0.7186975479125977
+frame_1237.bmp
+SVD square loss: 128.17644040810657
+SVD dice loss: 0.0031517791232094083
+SVD time(sec): 2.726044178009033
+random SVD square loss: 328.5935880345958
+random SVD dice loss: 0.008116069367279044
+random SVD time(sec): 0.3878509998321533
+Neural network square loss: 50.814836516203705
+Neural network dice loss: 0.060707354729364726
+Neural time(sec): 0.7192025184631348
+frame_2135.bmp
+SVD square loss: 87.36726306418666
+SVD dice loss: 0.003460197636435791
+SVD time(sec): 2.8884100914001465
+random SVD square loss: 210.22216357154716
+random SVD dice loss: 0.00834789824103399
+random SVD time(sec): 0.38448214530944824
+Neural network square loss: 57.9913621238426
+Neural network dice loss: 0.024408061745135545
+Neural time(sec): 0.7148230075836182
+frame_2099.bmp
+SVD square loss: 21.808392070963947
+SVD dice loss: 0.0008649146115450312
+SVD time(sec): 2.773719310760498
+random SVD square loss: 58.01810491154031
+random SVD dice loss: 0.002280052418733969
+random SVD time(sec): 0.36385488510131836
+Neural network square loss: 36.919146412037044
+Neural network dice loss: 0.010972700125238655
+Neural time(sec): 0.7179052829742432
+frame_1814.bmp
+SVD square loss: 129.4760709039472
+SVD dice loss: 0.02280542900813598
+SVD time(sec): 3.0298101902008057
+random SVD square loss: 228.95483555440975
+random SVD dice loss: 0.04101098157142269
+random SVD time(sec): 0.48960280418395996
+Neural network square loss: 71.19160264756944
+Neural network dice loss: 0.09503012964930846
+Neural time(sec): 0.7141609191894531
+frame_1574.bmp
+SVD square loss: 25.03145212961101
+SVD dice loss: 0.0006430211125507679
+SVD time(sec): 2.5020880699157715
+random SVD square loss: 81.22293419713267
+random SVD dice loss: 0.002070587051890116
+random SVD time(sec): 0.33547234535217285
+Neural network square loss: 44.20054289641204
+Neural network dice loss: 0.009251716158580225
+Neural time(sec): 0.7150735855102539
+frame_455.bmp
+SVD square loss: 155.14664034865618
+SVD dice loss: 0.04764533810842497
+SVD time(sec): 3.020533800125122
+random SVD square loss: 281.823851157746
+random SVD dice loss: 0.08998500167054868
+random SVD time(sec): 0.4496009349822998
+Neural network square loss: 46.87215422453704
+Neural network dice loss: 0.26192822978457864
+Neural time(sec): 0.7172114849090576
+frame_1496.bmp
+SVD square loss: 68.9896889356514
+SVD dice loss: 0.00409287567058203
+SVD time(sec): 3.125899076461792
+random SVD square loss: 152.69359010193838
+random SVD dice loss: 0.009076737349516084
+random SVD time(sec): 0.45841455459594727
+Neural network square loss: 51.726031901041665
+Neural network dice loss: 0.09205237194723126
+Neural time(sec): 0.7134945392608643
+frame_1832.bmp
+SVD square loss: 62.84308414148607
+SVD dice loss: 0.0042241313331503605
+SVD time(sec): 3.7847611904144287
+random SVD square loss: 135.73023243457652
+random SVD dice loss: 0.00914675295375278
+random SVD time(sec): 0.3912346363067627
+Neural network square loss: 67.6921994357639
+Neural network dice loss: 0.09918809863696976
+Neural time(sec): 0.7348244190216064
+frame_1240.bmp
+SVD square loss: 10.8079264643979
+SVD dice loss: 0.00031149806067864994
+SVD time(sec): 2.6911065578460693
+random SVD square loss: 35.32542874878002
+random SVD dice loss: 0.000996535016899891
+random SVD time(sec): 0.31311845779418945
+Neural network square loss: 37.883542390046294
+Neural network dice loss: 0.006627657542585874
+Neural time(sec): 0.7606508731842041
+frame_204.bmp
+SVD square loss: 39.056211820411384
+SVD dice loss: 0.000799703823814335
+SVD time(sec): 2.9722697734832764
+random SVD square loss: 94.0370277384006
+random SVD dice loss: 0.001918582625396792
+random SVD time(sec): 0.39911460876464844
+Neural network square loss: 46.54903247974537
+Neural network dice loss: 0.008619280856342781
+Neural time(sec): 0.7139277458190918
+frame_760.bmp
+SVD square loss: 71.68209968052889
+SVD dice loss: 0.010152759653024424
+SVD time(sec): 2.6045446395874023
+random SVD square loss: 224.48124634211953
+random SVD dice loss: 0.03265666751018936
+random SVD time(sec): 0.38942694664001465
+Neural network square loss: 12.952264539930555
+Neural network dice loss: 0.2814966225511327
+Neural time(sec): 0.7190868854522705
+frame_1631.bmp
+SVD square loss: 144.14926755715013
+SVD dice loss: 0.002481813266593802
+SVD time(sec): 2.6522586345672607
+random SVD square loss: 351.1763394259403
+random SVD dice loss: 0.006057909146731877
+random SVD time(sec): 0.3758723735809326
+Neural network square loss: 66.91741536458333
+Neural network dice loss: 0.020446061774980873
+Neural time(sec): 0.720726490020752
+frame_1329.bmp
+SVD square loss: 55.50054534477482
+SVD dice loss: 0.0011172520272692
+SVD time(sec): 2.6419665813446045
+random SVD square loss: 184.52730736896078
+random SVD dice loss: 0.0037088197315020555
+random SVD time(sec): 0.36334753036499023
+Neural network square loss: 74.76142433449074
+Neural network dice loss: 0.02009585417597659
+Neural time(sec): 0.7193050384521484
+frame_140.bmp
+SVD square loss: 411.3411118386461
+SVD dice loss: 0.015264231160985742
+SVD time(sec): 2.958679437637329
+random SVD square loss: 815.9651980965015
+random SVD dice loss: 0.03072598050413744
+random SVD time(sec): 0.5186648368835449
+Neural network square loss: 78.75261320891205
+Neural network dice loss: 0.07956503077025368
+Neural time(sec): 0.7195439338684082
+frame_1994.bmp
+SVD square loss: 262.98469522533867
+SVD dice loss: 0.010171452037395445
+SVD time(sec): 2.700490713119507
+random SVD square loss: 585.9773912412319
+random SVD dice loss: 0.022931129284881724
+random SVD time(sec): 0.42383408546447754
+Neural network square loss: 87.46043655960648
+Neural network dice loss: 0.14679374787478772
+Neural time(sec): 0.7174882888793945
+frame_422.bmp
+SVD square loss: 67.2150549761511
+SVD dice loss: 0.010400432070955423
+SVD time(sec): 2.8204948902130127
+random SVD square loss: 159.73144224026933
+random SVD dice loss: 0.024987438843334764
+random SVD time(sec): 0.45415377616882324
+Neural network square loss: 37.77766673900463
+Neural network dice loss: 0.08835113553702723
+Neural time(sec): 0.7201082706451416
+frame_203.bmp
+SVD square loss: 13.121639244532483
+SVD dice loss: 0.0003421326403969527
+SVD time(sec): 2.660477876663208
+random SVD square loss: 34.392576251510015
+random SVD dice loss: 0.0008835754967974063
+random SVD time(sec): 0.38767170906066895
+Neural network square loss: 45.30065465856481
+Neural network dice loss: 0.006003214401584134
+Neural time(sec): 0.718533992767334
+frame_1989.bmp
+SVD square loss: 74.97256453297165
+SVD dice loss: 0.00385985521922827
+SVD time(sec): 2.6893866062164307
+random SVD square loss: 187.53984798128423
+random SVD dice loss: 0.009683991661746605
+random SVD time(sec): 0.41013479232788086
+Neural network square loss: 77.03763454861111
+Neural network dice loss: 0.06264468225213826
+Neural time(sec): 0.7191109657287598
+frame_1245.bmp
+SVD square loss: 10.15503109683859
+SVD dice loss: 0.00032458737471785515
+SVD time(sec): 2.5697567462921143
+random SVD square loss: 34.85448393619877
+random SVD dice loss: 0.0010876381569770999
+random SVD time(sec): 0.3486354351043701
+Neural network square loss: 36.30862051504629
+Neural network dice loss: 0.0070927681292553
+Neural time(sec): 0.719386100769043
+frame_1581.bmp
+SVD square loss: 0.01876887522939123
+SVD dice loss: 0.8888811164352418
+SVD time(sec): 1.921363115310669
+random SVD square loss: 0.015377337273974485
+random SVD dice loss: 0.8727623491408318
+random SVD time(sec): 0.1499195098876953
+Neural network square loss: 2.4111939380787035
+Neural network dice loss: 0.9998288236516806
+Neural time(sec): 0.7783637046813965
+frame_978.bmp
+SVD square loss: 13.011390351648267
+SVD dice loss: 0.0006854519204333442
+SVD time(sec): 2.5195982456207275
+random SVD square loss: 43.6171575125534
+random SVD dice loss: 0.0022640326006716505
+random SVD time(sec): 0.3629648685455322
+Neural network square loss: 26.94989547164352
+Neural network dice loss: 0.01827406315465485
+Neural time(sec): 0.7979276180267334
+frame_1051.bmp
+SVD square loss: 62.36542314081971
+SVD dice loss: 0.0005779977655864244
+SVD time(sec): 2.709167242050171
+random SVD square loss: 172.57496639340988
+random SVD dice loss: 0.0015955613253315626
+random SVD time(sec): 0.37642979621887207
+Neural network square loss: 23.714721860532407
+Neural network dice loss: 0.017793499959600667
+Neural time(sec): 0.7137811183929443
+frame_1713.bmp
+SVD square loss: 2.2590103232258705
+SVD dice loss: 4.008381635001168e-05
+SVD time(sec): 2.5195858478546143
+random SVD square loss: 7.401873332015111
+random SVD dice loss: 0.00011963366939604647
+random SVD time(sec): 0.3376460075378418
+Neural network square loss: 33.134983723958335
+Neural network dice loss: 0.003057768589258325
+Neural time(sec): 0.7205648422241211
+frame_2249.bmp
+SVD square loss: 284.0276973288812
+SVD dice loss: 0.007807490337211953
+SVD time(sec): 3.1206283569335938
+random SVD square loss: 524.4547465843875
+random SVD dice loss: 0.01450534611801535
+random SVD time(sec): 0.465484619140625
+Neural network square loss: 88.09470703125
+Neural network dice loss: 0.033405871903248396
+Neural time(sec): 0.7175767421722412
+frame_102.bmp
+SVD square loss: 43.323886534277335
+SVD dice loss: 0.0005709098634583132
+SVD time(sec): 2.980024814605713
+random SVD square loss: 89.57161689156392
+random SVD dice loss: 0.0011776609061278087
+random SVD time(sec): 0.4388742446899414
+Neural network square loss: 22.67135199652778
+Neural network dice loss: 0.04495052697513302
+Neural time(sec): 0.7147576808929443
+frame_1372.bmp
+SVD square loss: 39.116696998199636
+SVD dice loss: 0.0010019635604308075
+SVD time(sec): 2.7893364429473877
+random SVD square loss: 99.35051581730801
+random SVD dice loss: 0.002536147572179681
+random SVD time(sec): 0.3875749111175537
+Neural network square loss: 53.104587673611114
+Neural network dice loss: 0.010576073458909319
+Neural time(sec): 0.7191002368927002
+frame_593.bmp
+SVD square loss: 19.60654997411102
+SVD dice loss: 0.0007795040644095197
+SVD time(sec): 2.5083558559417725
+random SVD square loss: 57.457708335912734
+random SVD dice loss: 0.002261888770786369
+random SVD time(sec): 0.3323373794555664
+Neural network square loss: 37.89810004340278
+Neural network dice loss: 0.016668929955750533
+Neural time(sec): 0.7183003425598145
+frame_457.bmp
+SVD square loss: 139.5955612972043
+SVD dice loss: 0.024483753247545925
+SVD time(sec): 2.9268639087677
+random SVD square loss: 270.6821213488137
+random SVD dice loss: 0.0485707874118263
+random SVD time(sec): 0.43946051597595215
+Neural network square loss: 54.89004412615741
+Neural network dice loss: 0.1308827944117863
+Neural time(sec): 0.7130837440490723
+frame_364.bmp
+SVD square loss: 17.339245006530273
+SVD dice loss: 0.0031965302910671456
+SVD time(sec): 2.733968734741211
+random SVD square loss: 45.37858386148367
+random SVD dice loss: 0.008284212086386411
+random SVD time(sec): 0.3997499942779541
+Neural network square loss: 36.98012116608796
+Neural network dice loss: 0.16491397448446832
+Neural time(sec): 0.7226517200469971
+frame_313.bmp
+SVD square loss: 60.332713387783706
+SVD dice loss: 0.0024692791974336714
+SVD time(sec): 2.8097925186157227
+random SVD square loss: 169.95288399053698
+random SVD dice loss: 0.006956874860823747
+random SVD time(sec): 0.3853318691253662
+Neural network square loss: 64.88936885127315
+Neural network dice loss: 0.07079715150325738
+Neural time(sec): 0.7176644802093506
+frame_374.bmp
+SVD square loss: 29.518242034449532
+SVD dice loss: 0.0005752497969964132
+SVD time(sec): 2.627866268157959
+random SVD square loss: 94.4936955942239
+random SVD dice loss: 0.0018302749783332128
+random SVD time(sec): 0.3957641124725342
+Neural network square loss: 41.122744502314816
+Neural network dice loss: 0.007671628644202011
+Neural time(sec): 0.7188847064971924
+frame_2228.bmp
+SVD square loss: 64.61328506078976
+SVD dice loss: 0.0029178024834843885
+SVD time(sec): 3.0719220638275146
+random SVD square loss: 152.8098010376256
+random SVD dice loss: 0.006910015841875228
+random SVD time(sec): 0.43261051177978516
+Neural network square loss: 65.20830258969907
+Neural network dice loss: 0.026016856273915034
+Neural time(sec): 0.7556631565093994
+frame_946.bmp
+SVD square loss: 158.1801333990338
+SVD dice loss: 0.005847136111262974
+SVD time(sec): 2.967444896697998
+random SVD square loss: 413.77752876949415
+random SVD dice loss: 0.01545570910344718
+random SVD time(sec): 0.3994140625
+Neural network square loss: 58.15759006076389
+Neural network dice loss: 0.1158181134865609
+Neural time(sec): 0.719393253326416
+frame_2050.bmp
+SVD square loss: 66.24134686660618
+SVD dice loss: 0.0023014978852685664
+SVD time(sec): 2.637512445449829
+random SVD square loss: 191.52081654140656
+random SVD dice loss: 0.006671802517369874
+random SVD time(sec): 0.3492422103881836
+Neural network square loss: 53.60342628761574
+Neural network dice loss: 0.02286991334453048
+Neural time(sec): 0.7129817008972168
+frame_832.bmp
+SVD square loss: 49.55327304625527
+SVD dice loss: 0.001465671282785963
+SVD time(sec): 2.8695900440216064
+random SVD square loss: 108.24435995785323
+random SVD dice loss: 0.003196327701438517
+random SVD time(sec): 0.4483199119567871
+Neural network square loss: 55.514082754629634
+Neural network dice loss: 0.013447280444121357
+Neural time(sec): 0.717200756072998
+frame_1043.bmp
+SVD square loss: 22.10922847757892
+SVD dice loss: 0.0007697642282338268
+SVD time(sec): 2.807778835296631
+random SVD square loss: 54.4127508958081
+random SVD dice loss: 0.0018791019511675833
+random SVD time(sec): 0.49060916900634766
+Neural network square loss: 67.9880711082176
+Neural network dice loss: 0.014813538017251937
+Neural time(sec): 0.7181527614593506
+frame_1744.bmp
+SVD square loss: 117.87691629875893
+SVD dice loss: 0.004986154049329894
+SVD time(sec): 3.9503369331359863
+random SVD square loss: 264.35307704089695
+random SVD dice loss: 0.011237888319872269
+random SVD time(sec): 0.425844669342041
+Neural network square loss: 49.24435510706019
+Neural network dice loss: 0.03539257631881765
+Neural time(sec): 0.7227344512939453
+frame_1155.bmp
+SVD square loss: 219.65397608256316
+SVD dice loss: 0.012616880876372139
+SVD time(sec): 3.8049070835113525
+random SVD square loss: 414.99796818451296
+random SVD dice loss: 0.02409053640115466
+random SVD time(sec): 0.43929624557495117
+Neural network square loss: 73.76676866319444
+Neural network dice loss: 0.05378506945926076
+Neural time(sec): 0.7175290584564209
+frame_2080.bmp
+SVD square loss: 30.262394926537763
+SVD dice loss: 0.0009818216204450225
+SVD time(sec): 3.039466381072998
+random SVD square loss: 94.01492515403332
+random SVD dice loss: 0.0030466614883900567
+random SVD time(sec): 0.3784775733947754
+Neural network square loss: 41.005547236689814
+Neural network dice loss: 0.015896684550338214
+Neural time(sec): 0.7266495227813721
+frame_1400.bmp
+SVD square loss: 64.13957594994578
+SVD dice loss: 0.001546645077308062
+SVD time(sec): 2.9605941772460938
+random SVD square loss: 153.82158996519405
+random SVD dice loss: 0.0037074850113039126
+random SVD time(sec): 0.37413835525512695
+Neural network square loss: 65.77449833622686
+Neural network dice loss: 0.017802485997333473
+Neural time(sec): 0.7159380912780762
+frame_2184.bmp
+SVD square loss: 4.188503646606542
+SVD dice loss: 0.00013694162531452392
+SVD time(sec): 2.6970582008361816
+random SVD square loss: 15.981497543790459
+random SVD dice loss: 0.0004987679528830613
+random SVD time(sec): 0.3582906723022461
+Neural network square loss: 27.9891822193287
+Neural network dice loss: 0.033381471081217695
+Neural time(sec): 1.2116482257843018
+frame_2179.bmp
+SVD square loss: 25.247581833474914
+SVD dice loss: 0.0025740213484414243
+SVD time(sec): 2.8756887912750244
+random SVD square loss: 64.22516441483656
+random SVD dice loss: 0.006522826068481757
+random SVD time(sec): 0.376023530960083
+Neural network square loss: 57.25444299768518
+Neural network dice loss: 0.02532117853787108
+Neural time(sec): 0.7382709980010986
+frame_328.bmp
+SVD square loss: 33.12811329764922
+SVD dice loss: 0.0008382694267837776
+SVD time(sec): 2.806035280227661
+random SVD square loss: 82.52698389433264
+random SVD dice loss: 0.002081373259721908
+random SVD time(sec): 0.42534375190734863
+Neural network square loss: 53.06875940393519
+Neural network dice loss: 0.049846036972091445
+Neural time(sec): 0.7108025550842285
+frame_881.bmp
+SVD square loss: 71.1839593965644
+SVD dice loss: 0.0010840344188597362
+SVD time(sec): 2.7101938724517822
+random SVD square loss: 179.259184468548
+random SVD dice loss: 0.00272644891426832
+random SVD time(sec): 0.3689725399017334
+Neural network square loss: 47.48760380497685
+Neural network dice loss: 0.014298253369497527
+Neural time(sec): 0.7162601947784424
+frame_869.bmp
+SVD square loss: 45.29778963709322
+SVD dice loss: 0.0015152753572066358
+SVD time(sec): 2.796229362487793
+random SVD square loss: 102.59721684025851
+random SVD dice loss: 0.0034242462006687235
+random SVD time(sec): 0.4123668670654297
+Neural network square loss: 60.979320746527776
+Neural network dice loss: 0.011627532220684578
+Neural time(sec): 0.717043399810791
+frame_2098.bmp
+SVD square loss: 19.337261389413026
+SVD dice loss: 0.0007381493380811399
+SVD time(sec): 2.6842997074127197
+random SVD square loss: 56.39715445205599
+random SVD dice loss: 0.002130331657483109
+random SVD time(sec): 0.35759782791137695
+Neural network square loss: 38.84276765046296
+Neural network dice loss: 0.010535160476666028
+Neural time(sec): 0.7141644954681396
+frame_904.bmp
+SVD square loss: 142.07531554982828
+SVD dice loss: 0.003206339975999839
+SVD time(sec): 2.749223470687866
+random SVD square loss: 360.389446440702
+random SVD dice loss: 0.008162386529513177
+random SVD time(sec): 0.41997623443603516
+Neural network square loss: 72.17209852430555
+Neural network dice loss: 0.029312892932259804
+Neural time(sec): 0.7147881984710693
+frame_348.bmp
+SVD square loss: 327.2320102886244
+SVD dice loss: 0.0056721085749315
+SVD time(sec): 2.74434757232666
+random SVD square loss: 752.2420244023479
+random SVD dice loss: 0.01313811821355848
+random SVD time(sec): 0.3640866279602051
+Neural network square loss: 61.98102430555556
+Neural network dice loss: 0.045123284221820326
+Neural time(sec): 0.7160689830780029
+frame_1368.bmp
+SVD square loss: 78.37682992835481
+SVD dice loss: 0.002770037935994618
+SVD time(sec): 2.6724085807800293
+random SVD square loss: 199.7183455184704
+random SVD dice loss: 0.007071115125482308
+random SVD time(sec): 0.3894367218017578
+Neural network square loss: 56.0594191261574
+Neural network dice loss: 0.0294014103608089
+Neural time(sec): 0.7142179012298584
+frame_436.bmp
+SVD square loss: 86.42799480154211
+SVD dice loss: 0.025968262429653555
+SVD time(sec): 2.9216837882995605
+random SVD square loss: 169.81410248018707
+random SVD dice loss: 0.05214047682604073
+random SVD time(sec): 0.4492909908294678
+Neural network square loss: 37.21790400752315
+Neural network dice loss: 0.1689978804464065
+Neural time(sec): 0.716963529586792
+frame_1904.bmp
+SVD square loss: 111.33398944903739
+SVD dice loss: 0.0027424379505387453
+SVD time(sec): 2.6455867290496826
+random SVD square loss: 284.86038697848284
+random SVD dice loss: 0.007030722769102993
+random SVD time(sec): 0.3655860424041748
+Neural network square loss: 57.35559425636574
+Neural network dice loss: 0.03083398207894905
+Neural time(sec): 0.7180964946746826
+frame_1050.bmp
+SVD square loss: 19.337765714426876
+SVD dice loss: 0.001864641441602699
+SVD time(sec): 2.84460711479187
+random SVD square loss: 44.493304850140596
+random SVD dice loss: 0.0042592475214733305
+random SVD time(sec): 0.419083833694458
+Neural network square loss: 49.25126229745371
+Neural network dice loss: 0.14414113800442896
+Neural time(sec): 0.7117538452148438
+frame_1221.bmp
+SVD square loss: 11.34492236497401
+SVD dice loss: 0.00015901735269896466
+SVD time(sec): 2.5265426635742188
+random SVD square loss: 39.58731231074992
+random SVD dice loss: 0.000542756104630282
+random SVD time(sec): 0.33837127685546875
+Neural network square loss: 45.90912326388889
+Neural network dice loss: 0.0046236693237343696
+Neural time(sec): 0.8190343379974365
+frame_350.bmp
+SVD square loss: 105.35979343515474
+SVD dice loss: 0.004022783931485141
+SVD time(sec): 2.9610092639923096
+random SVD square loss: 221.91408986260066
+random SVD dice loss: 0.008498943225439537
+random SVD time(sec): 0.45858263969421387
+Neural network square loss: 59.31608036747685
+Neural network dice loss: 0.025015205702610843
+Neural time(sec): 0.7140686511993408
+frame_615.bmp
+SVD square loss: 8.184410225888213
+SVD dice loss: 0.0005386213267070117
+SVD time(sec): 2.4321980476379395
+random SVD square loss: 31.405305598697993
+random SVD dice loss: 0.0020260501832620736
+random SVD time(sec): 0.29565978050231934
+Neural network square loss: 38.05339916087963
+Neural network dice loss: 0.026403234908250917
+Neural time(sec): 0.7170441150665283
+frame_897.bmp
+SVD square loss: 61.27754756489062
+SVD dice loss: 0.0010833807264071238
+SVD time(sec): 2.728698253631592
+random SVD square loss: 148.6708393068677
+random SVD dice loss: 0.0026242877723068325
+random SVD time(sec): 0.35099363327026367
+Neural network square loss: 40.89183521412037
+Neural network dice loss: 0.006401249480493698
+Neural time(sec): 0.7184391021728516
+frame_886.bmp
+SVD square loss: 70.36454409795822
+SVD dice loss: 0.0025682050658570876
+SVD time(sec): 2.649843215942383
+random SVD square loss: 172.95582896808722
+random SVD dice loss: 0.006319081304044016
+random SVD time(sec): 0.40059852600097656
+Neural network square loss: 61.53494864004629
+Neural network dice loss: 0.0413951495199405
+Neural time(sec): 0.7165861129760742
+frame_1182.bmp
+SVD square loss: 79.32333467959292
+SVD dice loss: 0.002169018754591523
+SVD time(sec): 2.6559696197509766
+random SVD square loss: 196.94328093160183
+random SVD dice loss: 0.005388149000559284
+random SVD time(sec): 0.37788867950439453
+Neural network square loss: 61.05807219328704
+Neural network dice loss: 0.019825984663247365
+Neural time(sec): 0.7160227298736572
+frame_1114.bmp
+SVD square loss: 79.42934443153275
+SVD dice loss: 0.0020527565910003487
+SVD time(sec): 2.7896785736083984
+random SVD square loss: 188.9036612477797
+random SVD dice loss: 0.004888564306180676
+random SVD time(sec): 0.3985733985900879
+Neural network square loss: 57.49416847511574
+Neural network dice loss: 0.01335570863649349
+Neural time(sec): 0.716853141784668
+frame_955.bmp
+SVD square loss: 21.680393849664366
+SVD dice loss: 0.011145797345906705
+SVD time(sec): 2.697568655014038
+random SVD square loss: 57.402633853798136
+random SVD dice loss: 0.029849831747005173
+random SVD time(sec): 0.40262436866760254
+Neural network square loss: 22.69092990451389
+Neural network dice loss: 0.21174208869947797
+Neural time(sec): 0.7164902687072754
+frame_1157.bmp
+SVD square loss: 244.08158024176342
+SVD dice loss: 0.013752165586462306
+SVD time(sec): 3.083862066268921
+random SVD square loss: 474.65226800020747
+random SVD dice loss: 0.027070891571499
+random SVD time(sec): 0.39943432807922363
+Neural network square loss: 74.44533998842593
+Neural network dice loss: 0.060198366813762005
+Neural time(sec): 0.7123470306396484
+frame_517.bmp
+SVD square loss: 30.48482283882628
+SVD dice loss: 0.02104211972296377
+SVD time(sec): 2.947108030319214
+random SVD square loss: 63.520718855612074
+random SVD dice loss: 0.04451303532569739
+random SVD time(sec): 0.44994473457336426
+Neural network square loss: 32.95740596064815
+Neural network dice loss: 0.1916632743429908
+Neural time(sec): 0.7181057929992676
+frame_614.bmp
+SVD square loss: 63.640039394306406
+SVD dice loss: 0.0039027027485482035
+SVD time(sec): 2.5907652378082275
+random SVD square loss: 187.4139890986705
+random SVD dice loss: 0.011579694140318564
+random SVD time(sec): 0.38813233375549316
+Neural network square loss: 62.949678096064815
+Neural network dice loss: 0.0653321324050069
+Neural time(sec): 0.7207422256469727
+frame_2015.bmp
+SVD square loss: 29.50132086137263
+SVD dice loss: 0.003558201953344109
+SVD time(sec): 2.5043482780456543
+random SVD square loss: 81.692961550992
+random SVD dice loss: 0.009810728291981263
+random SVD time(sec): 0.35073423385620117
+Neural network square loss: 36.97880063657407
+Neural network dice loss: 0.031616815604398885
+Neural time(sec): 0.7516353130340576
+frame_1034.bmp
+SVD square loss: 77.3740205524842
+SVD dice loss: 0.0008355347834748672
+SVD time(sec): 2.7833144664764404
+random SVD square loss: 168.38659201164964
+random SVD dice loss: 0.001816025632583762
+random SVD time(sec): 0.464092493057251
+Neural network square loss: 43.424009331597226
+Neural network dice loss: 0.01957994198922708
+Neural time(sec): 0.7155072689056396
+frame_263.bmp
+SVD square loss: 244.64697667114004
+SVD dice loss: 0.00347622855901919
+SVD time(sec): 3.058673620223999
+random SVD square loss: 485.9026538078505
+random SVD dice loss: 0.0069242710486806525
+random SVD time(sec): 0.4964606761932373
+Neural network square loss: 75.00392252604166
+Neural network dice loss: 0.01923917972128919
+Neural time(sec): 0.7145247459411621
+frame_1673.bmp
+SVD square loss: 29.999451322501177
+SVD dice loss: 0.0009189646692265852
+SVD time(sec): 2.7964892387390137
+random SVD square loss: 71.65166607200543
+random SVD dice loss: 0.002184090856748533
+random SVD time(sec): 0.43509626388549805
+Neural network square loss: 65.8632765480324
+Neural network dice loss: 0.02164693654509342
+Neural time(sec): 0.7282218933105469
+frame_779.bmp
+SVD square loss: 26.7911511901618
+SVD dice loss: 0.0010030436767162199
+SVD time(sec): 2.7291836738586426
+random SVD square loss: 69.63080173288566
+random SVD dice loss: 0.002591657193962371
+random SVD time(sec): 0.3869168758392334
+Neural network square loss: 33.39653030960648
+Neural network dice loss: 0.010457865271430888
+Neural time(sec): 0.7162988185882568
+frame_1854.bmp
+SVD square loss: 217.15301233053484
+SVD dice loss: 0.005055642268317229
+SVD time(sec): 3.6302757263183594
+random SVD square loss: 513.3436607927221
+random SVD dice loss: 0.012024041087446258
+random SVD time(sec): 0.5261778831481934
+Neural network square loss: 53.36551396122686
+Neural network dice loss: 0.04244755924048638
+Neural time(sec): 0.7289884090423584
+frame_2051.bmp
+SVD square loss: 439.50951625807073
+SVD dice loss: 0.014044484820206038
+SVD time(sec): 2.7631824016571045
+random SVD square loss: 963.6355656166505
+random SVD dice loss: 0.03133889188689187
+random SVD time(sec): 0.42295169830322266
+Neural network square loss: 64.74576678240742
+Neural network dice loss: 0.11860332116053363
+Neural time(sec): 0.7218375205993652
+frame_2191.bmp
+SVD square loss: 363.58560273297326
+SVD dice loss: 0.007148510425402987
+SVD time(sec): 2.7151880264282227
+random SVD square loss: 765.0984980672259
+random SVD dice loss: 0.01515699935095216
+random SVD time(sec): 0.4211289882659912
+Neural network square loss: 66.84401041666666
+Neural network dice loss: 0.0363537708066376
+Neural time(sec): 0.715165376663208
+frame_916.bmp
+SVD square loss: 66.19833065039661
+SVD dice loss: 0.0018118606745294308
+SVD time(sec): 2.630899429321289
+random SVD square loss: 176.3374662369973
+random SVD dice loss: 0.004824255624668816
+random SVD time(sec): 0.36264753341674805
+Neural network square loss: 51.74496997974537
+Neural network dice loss: 0.016297525088018183
+Neural time(sec): 0.7145881652832031
+frame_1945.bmp
+SVD square loss: 48.706629981957356
+SVD dice loss: 0.0005405688788295837
+SVD time(sec): 2.6674458980560303
+random SVD square loss: 121.30411555215926
+random SVD dice loss: 0.0013424919620527165
+random SVD time(sec): 0.3588221073150635
+Neural network square loss: 41.12507197627315
+Neural network dice loss: 0.006707868219011148
+Neural time(sec): 0.7164967060089111
+frame_2168.bmp
+SVD square loss: 233.69778428593915
+SVD dice loss: 0.006658213025949933
+SVD time(sec): 2.760789394378662
+random SVD square loss: 495.38091838644596
+random SVD dice loss: 0.014209382439227425
+random SVD time(sec): 0.4086906909942627
+Neural network square loss: 78.18025535300926
+Neural network dice loss: 0.038094669151803484
+Neural time(sec): 0.7151975631713867
+frame_2002.bmp
+SVD square loss: 182.0482978889502
+SVD dice loss: 0.00607510008539669
+SVD time(sec): 2.718071222305298
+random SVD square loss: 455.76862102394944
+random SVD dice loss: 0.015329700166182847
+random SVD time(sec): 0.38902783393859863
+Neural network square loss: 63.13974826388889
+Neural network dice loss: 0.10197010399131756
+Neural time(sec): 0.7585141658782959
+frame_1630.bmp
+SVD square loss: 70.42914237509025
+SVD dice loss: 0.0017481546433752992
+SVD time(sec): 2.8488636016845703
+random SVD square loss: 147.4339926359322
+random SVD dice loss: 0.003657917410866407
+random SVD time(sec): 0.4150843620300293
+Neural network square loss: 52.903382523148146
+Neural network dice loss: 0.011289598125038602
+Neural time(sec): 0.7095932960510254
+frame_1736.bmp
+SVD square loss: 1.3463998256737535
+SVD dice loss: 4.21640318295502e-05
+SVD time(sec): 2.433838129043579
+random SVD square loss: 4.953897667365224
+random SVD dice loss: 0.0001325510644561989
+random SVD time(sec): 0.3305244445800781
+Neural network square loss: 36.00919885706019
+Neural network dice loss: 0.0024204993034276923
+Neural time(sec): 0.7136051654815674
+frame_2195.bmp
+SVD square loss: 86.29444776075171
+SVD dice loss: 0.004105242412982935
+SVD time(sec): 2.7615342140197754
+random SVD square loss: 217.66905789149988
+random SVD dice loss: 0.01039682175115042
+random SVD time(sec): 0.3610374927520752
+Neural network square loss: 67.97348451967592
+Neural network dice loss: 0.037442838540418855
+Neural time(sec): 0.7182462215423584

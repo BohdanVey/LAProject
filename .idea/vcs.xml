@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Learned-Image-Compression-with-GMM-and-Attention" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cae" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/iclr_17_compression" vcs="Git" />
+  </component>
+</project>
