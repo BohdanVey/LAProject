@@ -32,8 +32,7 @@ class AveragedHausdorffLoss(nn.Module):
         :param set2: Tensor where each row is an N-dimensional point.
         :return: The Averaged Hausdorff Distance between set1 and set2.
         """
-        set1 = set1.reshape((set1.shape[0] * set1.shape[1], set1.shape[2]))
-        set2 = set2.reshape((set2.shape[0] * set2.shape[1], set2.shape[2]))
+
         assert set1.ndimension() == 2, 'got %s' % set1.ndimension()
         assert set2.ndimension() == 2, 'got %s' % set2.ndimension()
 
