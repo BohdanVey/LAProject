@@ -7,3 +7,6 @@ random SVD total time(sec): 40.48368573188782
 Neural network square loss: 53.47344069372107
 Neural network dice loss: 0.059129489975347005
 Neural network total time(sec): 73.07438588142395
+JPEG square loss: 9.45695606915509
+JPEG dice loss: 0.003273596181456475
+JPEG total time(sec): 4.671080827713013

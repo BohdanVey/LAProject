@@ -1,9 +1,0 @@
-SVD square loss: 164.6128242903998
-SVD dice loss: 0.016600405153955316
-SVD total time(sec): 169.24877786636353
-random SVD square loss: 360.96783976939366
-random SVD dice loss: 0.02346311526574813
-random SVD total time(sec): 21.206820249557495
-Neural network square loss: 53.49810458984375
-Neural network dice loss: 0.059129163664194045
-Neural network total time(sec): 72.59921193122864
